@@ -1,5 +1,5 @@
 # moos-vim-syntax
-
+![moos-vim-syntax in use on default MOOS alpha mission](screenshot.png)
 > A vim package which adds syntax highlighting for MOOS-IvP mission files (those with extensions `.moos` or `.bhv`).
 
 ## Installation
