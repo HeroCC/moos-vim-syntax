@@ -9,25 +9,25 @@ Use your favorite plugin manager.
 - [NeoBundle][neobundle]
 
     ```vim
-    NeoBundle 'darfink/vim-plist'
+    NeoBundle 'HeroCC/moos-vim-syntax'
     ```
 
 - [Vundle][vundle]
 
     ```vim
-    Bundle 'darfink/vim-plist'
+    Bundle 'HeroCC/moos-vim-syntax'
     ```
 
 - [Pathogen][pathogen]
 
     ```sh
-    git clone git://github.com/darfink/vim-plist.git ~/.vim/bundle/vim-plist
+    git clone git://github.com/HeroCC/moos-vim-syntax.git ~/.vim/bundle/moos-vim-syntax
     ```
 
 - [vim-plug][vim-plug]
 
     ```vim
-    Plug 'darfink/vim-plist'
+    Plug 'HeroCC/moos-vim-syntax'
     ```
 
 ## Usage
