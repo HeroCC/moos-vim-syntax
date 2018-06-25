@@ -36,7 +36,7 @@ None! Simply open a MOOS mission or behavior file.
 
 ## License
 
-Provided under the [MIT License][LICENSE].
+Provided under the [MIT License](LICENSE).
 
 [neobundle]: https://github.com/Shougo/neobundle.vim
 [vundle]: https://github.com/gmarik/vundle
