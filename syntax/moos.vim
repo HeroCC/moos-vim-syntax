@@ -15,6 +15,7 @@ syn match bothComment "\/\/.*$" contains=bhvTodo
 syn keyword moosGenericKeywords AppTick CommsTick Community ProcessConfig ServerHost ServerPort LatOrigin LongOrigin MOOSTimeWarp MaxAppTick IterateMode
 syn keyword bhvGenericKeywords initialize set name pwt duration duration_idle_decay duration_status duration_reset condition updates perpetual endflag runflag idleflag activeflag inactiveflag templating nostarve post_mapping priority
 syn keyword bothBoolean true false
+syn keyword directives #include
 
 " Regions
 syn region bothBlock start="{" end="}" fold transparent
